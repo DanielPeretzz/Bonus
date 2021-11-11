@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Bonus {
     static final Scanner SCANNER = new Scanner(System.in);
     public static void main(String[] args) {
-        Point EuclideanPRO = new Point();
+        Point Euclidean = new Point();
         System.out.println("enter 2 point");
         System.out.println("the first by separated : ");
         double y2 = SCANNER.nextDouble();
